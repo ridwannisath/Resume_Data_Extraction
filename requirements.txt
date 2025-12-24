@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+PyMySQL
+pandas
+pdfplumber
+python-docx
+Pillow
+google-generativeai
+openpyxl
