@@ -7,3 +7,4 @@ python-docx
 Pillow
 google-generativeai
 openpyxl
+gunicorn
